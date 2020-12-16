@@ -1,4 +1,5 @@
 # IIT Dharwad Contact Directory
+[![HitCount](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/iitdh_contact_directory/blob/master/READMEmd.svg)](http://hits.dwyl.com/ksanu1998/https://githubcom/ksanu1998/iitdh_contact_directory/blob/master/READMEmd)<br>
 <html>
   <h>
 This repository contains the code for SSL Course Project assigned to my team.
